@@ -39,3 +39,5 @@ This version returns **only the unique genres**, removing any duplicate entries 
 ---
 
 Try it out and see how much cleaner your result set becomes! 🔍📺
+
+Source Credit : All content adapted from the [Codedex](https://www.codedex.io) website From SQL Learning Path ❤️
