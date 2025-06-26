@@ -1,0 +1,51 @@
+id,name,cuisine,borough,neighborhood,price,yelp_review
+1,Sichuan Mountain House,Chinese,Manhattan,East Village,$$,4.3
+2,Che Li,Chinese,Manhattan,East Village,$$,4.2
+3,Yakitori Taisho,Japanese,Manhattan,East Village,$$,3.7
+4,McSorley’s Old Ale House,Irish Pub,Manhattan,East Village,$,4.3
+5,Nom Wah Tea Parlor,Chinese,Manhattan,Chinatown,$$,3.6
+6,Golden Unicorn,Chinese,Manhattan,Chinatown,$$,3.4
+7,Great NY Noodletown,Chinese,Manhattan,Chinatown,$,3.7
+8,Hometown Hotpot,Chinese,Manhattan,Chinatown,$$$,3.9
+9,XO Kitchen,Chinese,Manhattan,Chinatown,$,3.4
+10,Jongro BBQ,Korean BBQ,Manhattan,K-town,$$,4.2
+11,Ahgassi Gopchang,Korean BBQ,Manhattan,K-town,$$$,4.4
+12,Pocha 32,Korean,Manhattan,K-town,$$$,3.5
+13,Despaña,Spanish,Manhattan,SoHo,$$,4.4
+14,Lobster Place,Seafood,Manhattan,Chelsea,$$,4.2
+15,Adele's Famous Halal Food,Middle Eastern,Manhattan,Midtown,$,4.5
+16,The Halal Guys,Middle Eastern,Manhattan,Midtown,$$,4.2
+17,Massawa,Ethiopean,Manhattan,Morningside Heights,$$,4.2
+18,Russ & Daughters,Bagels,Manhattan,LES,$$,4.3
+19,Chai,Chinese,Manhattan,Hell's Kitchen,$$$,4.1
+20,Peter Luger Steak House,Steak House,Brooklyn,Williamsburg,$$$$,4
+21,The Commodore,American,Brooklyn,Williamsburg,$$,3.8
+22,Paulie Gee's Slice Shop,Pizzeria,Brooklyn,Greenpoint,$,4
+23,The Blue Light Speak Cheesy,Sandwiches,Brooklyn,Greenpoint,$,4.7
+24,Lilia Caffé,Italian,Brooklyn,Greenpoint,$$$$,3.9
+25,Taqueria Ramirez,Mexican,Brooklyn,Greenpoint,$$,4.6
+26,Frankel's Delicatessen,Deli,Brooklyn,Greenpoint,$$,4.2
+27,Greenpoint Fish & Lobster Co.,Seafood,Brooklyn,Greenpoint,$$,4.1
+28,Lucy's,Vietnamese,Brooklyn,Bushwick,$,3.6
+29,Tortilleria Mexicana Los Hermanos,Mexican,Brooklyn,Bushwick,$,4
+30,Roberta's,Pizzeria,Brooklyn,East Williamsburg,$$,4
+31,Un Posto Italiano,Italian,Brooklyn,Park Slope,$$,4.9
+32,Haenyeo,Korean,Brooklyn,Park Slope,$$$,4.1
+33,WINNER in the Park,Café,Brooklyn,Prospect Park,$$,4.5
+34,Pasta Louise Cafe,Café,Brooklyn,Park Slope,$$,4.3
+35,Sushi Katsuei,Japanese,Brooklyn,Park Slope,$$$,4
+36,Di Fara Pizza,Pizzeria,Brooklyn,Midwood,$$,4
+37,Usagi NY,Japanese,Brooklyn,Dumbo,$$,4.2
+38,Gowanus Yacht Club,Backyard,Brooklyn,Gowanus,$,3.7
+39,Nathan's Famous,Hot Dogs,Brooklyn,Coney Island,$$,3.5
+40,Da Long Yi Hot Pot,Chinese,Queens,Long Island City,$$$,4.4
+41,Nan Xiang Xiao Long Bao,Chinese,Queens,Flushing,$$,4
+42,Ruby's,Australian,Manhattan,East Village,$$,4.4
+43,Wayla,Thai,Manhattan,Chinatown,$$,4.4
+44,Pinto Garden,Thai,Manhattan,West Village,$$,4.2
+45,Bua Thai,Thai,Manhattan,Upper East Side,$$,4.4
+46,Up Thai,Thai,Manhattan,Upper East Side,$$,4.4
+47,Koi Omakase,Japanese,Brooklyn,Park Slope,$$,4.3
+48,Katz's Delicatessen,Deli,Manhattan,LES,$$,4.1
+49,Lombardi's Pizza,Pizzeria,Manhattan,Nolita,$$,3.8
+50,Minca,Ramen,Manhattan,East Village,$$,3.9
