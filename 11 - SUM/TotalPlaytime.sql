@@ -1,0 +1,7 @@
+SELECT SUM(plays)
+FROM playlist;
+
+-- FOR FINDING HOW LONG IS THE PLAYLIST USING SUM()
+
+SELECT SUM(duration)
+FROM playlist;
