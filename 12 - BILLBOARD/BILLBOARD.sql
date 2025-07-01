@@ -1,0 +1,7 @@
+SELECT AVG(plays)
+FROM playlist;
+
+-- FOR FINDING AVERAGE DURATION OF A SONG
+
+SELECT AVG(duration)
+FROM playlist;
